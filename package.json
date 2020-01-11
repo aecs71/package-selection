@@ -22,7 +22,7 @@
     "jquery": "2.2.3",
     "loadash": "^1.0.0",
     "mdbreact": "^4.10.0",
-    "mongoose": "^5.4.3",
+    "mongoose": "^5.7.5",
     "npm": "^6.5.0",
     "passport": "^0.4.0",
     "passport-facebook": "^2.1.1",
