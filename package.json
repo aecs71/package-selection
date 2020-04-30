@@ -19,7 +19,7 @@
     "history": "^4.7.2",
     "i": "^0.3.6",
     "immutable": "^4.0.0-rc.12",
-    "jquery": "2.2.3",
+    "jquery": "3.5.0",
     "loadash": "^1.0.0",
     "mdbreact": "^4.10.0",
     "mongoose": "^5.4.3",
