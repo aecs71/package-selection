@@ -23,7 +23,7 @@
     "loadash": "^1.0.0",
     "mdbreact": "^4.10.0",
     "mongoose": "^5.4.3",
-    "npm": "^6.5.0",
+    "npm": "^6.14.6",
     "passport": "^0.4.0",
     "passport-facebook": "^2.1.1",
     "popper.js": "^1.12.9",
